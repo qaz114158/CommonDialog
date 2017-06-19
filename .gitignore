@@ -7,3 +7,7 @@
 /build
 /captures
 .externalNativeBuild
+local.properties
+project.properties
+.idea/misc.xml
+bintrayUpload.gradle
