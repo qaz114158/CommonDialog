@@ -7,7 +7,9 @@ This prohect is provider for android dialog
 <img src="screenshots/device-2017-06-19-143926.png" width="380" height="675" alt="Screenshot"/>  
 
 ## Including In Your Project
-compile 'com.terry:tcdialoglibrary:1.0'
+
+`compile 'com.terry:tcdialoglibrary:1.0'`
+
 
 ## Usage
 
